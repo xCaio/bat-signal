@@ -54,5 +54,14 @@ export const styles = StyleSheet.create({
         flexDirection: "row",
         alignItems: "center",
         justifyContent: "space-between"
+    },
+    forms:{
+        width: "100%",
+        marginTop: 30
+    },
+    observations:{
+        height: 100,
+        textAlign: "left",
+        
     }
 })
